@@ -4,7 +4,7 @@ import flatspec._
 import matchers._
 
 
-class alphabetPositionSpec extends AnyFlatSpec with should.Matchers {
+class MainSpec extends AnyFlatSpec with should.Matchers {
 
   behavior of "An accum"
 
